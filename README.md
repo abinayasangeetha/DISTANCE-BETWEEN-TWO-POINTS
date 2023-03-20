@@ -26,7 +26,7 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-![OUTPUT](./DISTANCE.png)
+![OUTPUT](./distance2.png)
 
 ### RESULT:
 Thus,a python program to find the distance between 2 points is executed successfully.
